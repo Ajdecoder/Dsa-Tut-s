@@ -1,0 +1,1 @@
+ powOfTwo(num, n - 1);
